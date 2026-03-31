@@ -5,6 +5,10 @@
 
 This repository contains a comprehensive console application built in Java for managing railway ticket reservations. It simulates a complete booking system including train scheduling, seat availability tracking, dynamic fare calculation, and permanent file storage.
 
+## Usage
+
+![Usage Screenshot](usage.png)
+
 ## Core Features
 
 The application provides a variety of detailed features to ensure a stable and persistent booking experience:
